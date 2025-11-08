@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Visit](https://amirultechie.github.io/Frontend-Mentor---Product-preview-card-component-solution/)
 
 ### Built with
 
